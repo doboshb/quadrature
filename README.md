@@ -3,7 +3,7 @@ markdown
 
 Simple numerical integration routines in Python.
 
-Default method: by hand
+Default method: Gauss-Legender
 
 ## Methods implemented
 
