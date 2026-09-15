@@ -9,3 +9,4 @@ Default method: by hand
 
 - trapezoid
 - simpson
+Maintained by Bohdan Dobosh
