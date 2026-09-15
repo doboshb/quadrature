@@ -3,7 +3,7 @@ markdown
 
 Simple numerical integration routines in Python.
 
-Default method: by hand
+Default method: Romberg
 
 ## Methods implemented
 
